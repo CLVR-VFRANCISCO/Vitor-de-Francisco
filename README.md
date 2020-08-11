@@ -1,4 +1,4 @@
-<img width="auto" src="">
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C5616AQEovDE1zjGVVg/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=JNaULXHHiLCkYIVh_nGN_AWi-4BMfALrgkNzR_CqW4w">
 
 
 # Vitor de Francisco
