@@ -1,4 +1,4 @@
-<img width=1100px height=200px margin=0 src="">
+<img width=1100px height=200px src="">
 
 
 # Vitor de Francisco
